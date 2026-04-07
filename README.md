@@ -27,7 +27,7 @@ Sorting-large-DataSet/
 ## Requisitos
 
 - g++ con soporte C++17 (`g++ --version`)
-- Archivo `words_alpha.txt` con al menos 100,000 palabras (proporcionado por el profesor)
+- Archivo `words_alpha.txt` con al menos 100,000 palabras
 
 ---
 
