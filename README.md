@@ -133,4 +133,4 @@ Los archivos se generan automáticamente en la **misma carpeta donde está el ar
 - El dataset siempre se genera con semilla `42` para garantizar reproducibilidad.
 - El Árbol AVL ignora palabras duplicadas (comportamiento estándar de un ABB).
 - QuickSort puede verse lento en modo Debug de CLion — usar modo **Release** para tiempos reales.
-- El programa soporta archivos UTF-16 (como los que provee el profesor) sin necesidad de conversión manual.
+- El programa soporta archivos UTF-16 sin necesidad de conversión manual.
